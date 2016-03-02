@@ -1,0 +1,36 @@
+c:\users\georgecolgrove\documents\visual studio 2010\Projects\Projecteuler\Projecteuler\bin\Debug\Projecteuler.exe
+c:\users\georgecolgrove\documents\visual studio 2010\Projects\Projecteuler\Projecteuler\bin\Debug\Projecteuler.pdb
+c:\users\georgecolgrove\documents\visual studio 2010\Projects\Projecteuler\Projecteuler\obj\x86\Debug\Projecteuler.csprojResolveAssemblyReference.cache
+c:\users\georgecolgrove\documents\visual studio 2010\Projects\Projecteuler\Projecteuler\obj\x86\Debug\Projecteuler.Form1.resources
+c:\users\georgecolgrove\documents\visual studio 2010\Projects\Projecteuler\Projecteuler\obj\x86\Debug\Projecteuler.Properties.Resources.resources
+c:\users\georgecolgrove\documents\visual studio 2010\Projects\Projecteuler\Projecteuler\obj\x86\Debug\Projecteuler.csproj.GenerateResource.Cache
+c:\users\georgecolgrove\documents\visual studio 2010\Projects\Projecteuler\Projecteuler\obj\x86\Debug\Projecteuler.exe
+c:\users\georgecolgrove\documents\visual studio 2010\Projects\Projecteuler\Projecteuler\obj\x86\Debug\Projecteuler.pdb
+C:\Users\georgecolgrove\documents\visual studio 2010\Projects\Projecteuler\Projecteuler\bin\Debug\Oyster.IntX.dll
+I:\Projects\Projects\Projecteuler\Projecteuler\obj\x86\Debug\Projecteuler.exe
+I:\Projects\Projects\Projecteuler\Projecteuler\obj\x86\Debug\Projecteuler.pdb
+I:\Projects\Projects\Projecteuler\Projecteuler\bin\Debug\Projecteuler.exe
+I:\Projects\Projects\Projecteuler\Projecteuler\bin\Debug\Projecteuler.pdb
+I:\Projects\Projects\Projecteuler\Projecteuler\bin\Debug\Oyster.IntX.dll
+I:\Projects\Projects\Projecteuler\Projecteuler\obj\x86\Debug\Projecteuler.csprojResolveAssemblyReference.cache
+I:\Projects\Projects\Projecteuler\Projecteuler\obj\x86\Debug\Projecteuler.Form1.resources
+I:\Projects\Projects\Projecteuler\Projecteuler\obj\x86\Debug\Projecteuler.Properties.Resources.resources
+I:\Projects\Projects\Projecteuler\Projecteuler\obj\x86\Debug\Projecteuler.csproj.GenerateResource.Cache
+E:\Hard drive\Files from x61 comsumer preview\Projects\Projecteuler\Projecteuler\obj\x86\Debug\Projecteuler.exe
+E:\Hard drive\Files from x61 comsumer preview\Projects\Projecteuler\Projecteuler\obj\x86\Debug\Projecteuler.pdb
+E:\Hard drive\Files from x61 comsumer preview\Projects\Projecteuler\Projecteuler\bin\Debug\Projecteuler.exe
+E:\Hard drive\Files from x61 comsumer preview\Projects\Projecteuler\Projecteuler\bin\Debug\Projecteuler.pdb
+E:\Hard drive\Files from x61 comsumer preview\Projects\Projecteuler\Projecteuler\bin\Debug\Oyster.IntX.dll
+E:\Hard drive\Files from x61 comsumer preview\Projects\Projecteuler\Projecteuler\obj\x86\Debug\Projecteuler.csprojResolveAssemblyReference.cache
+E:\Hard drive\Files from x61 comsumer preview\Projects\Projecteuler\Projecteuler\obj\x86\Debug\Projecteuler.Form1.resources
+E:\Hard drive\Files from x61 comsumer preview\Projects\Projecteuler\Projecteuler\obj\x86\Debug\Projecteuler.Properties.Resources.resources
+E:\Hard drive\Files from x61 comsumer preview\Projects\Projecteuler\Projecteuler\obj\x86\Debug\Projecteuler.csproj.GenerateResource.Cache
+G:\Hard drive\Files from x61 comsumer preview\Projects\Projecteuler\Projecteuler\obj\x86\Debug\Projecteuler.exe
+G:\Hard drive\Files from x61 comsumer preview\Projects\Projecteuler\Projecteuler\obj\x86\Debug\Projecteuler.pdb
+G:\Hard drive\Files from x61 comsumer preview\Projects\Projecteuler\Projecteuler\bin\Debug\Projecteuler.exe
+G:\Hard drive\Files from x61 comsumer preview\Projects\Projecteuler\Projecteuler\bin\Debug\Projecteuler.pdb
+G:\Hard drive\Files from x61 comsumer preview\Projects\Projecteuler\Projecteuler\bin\Debug\Oyster.IntX.dll
+G:\Hard drive\Files from x61 comsumer preview\Projects\Projecteuler\Projecteuler\obj\x86\Debug\Projecteuler.csprojResolveAssemblyReference.cache
+G:\Hard drive\Files from x61 comsumer preview\Projects\Projecteuler\Projecteuler\obj\x86\Debug\Projecteuler.Form1.resources
+G:\Hard drive\Files from x61 comsumer preview\Projects\Projecteuler\Projecteuler\obj\x86\Debug\Projecteuler.Properties.Resources.resources
+G:\Hard drive\Files from x61 comsumer preview\Projects\Projecteuler\Projecteuler\obj\x86\Debug\Projecteuler.csproj.GenerateResource.Cache
